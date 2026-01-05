@@ -1,9 +1,0 @@
-rootProject.name = "SD Maid SE"
-include ':app'
-include ':app-common-root'
-include ':app-common'
-include ':app-common-test'
-include ':app-common-io'
-include ':app-common-pkgs'
-include ':app-common-shell'
-include ':app-common-adb'

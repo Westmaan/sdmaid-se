@@ -34,7 +34,7 @@ the [FAQ](https://github.com/d4rken-org/sdmaid-se/wiki/FAQ).
 
 ## Download
 
-| Source                                                                                 | Status                                                                                                                                                                                                                          |
+ Source                                                                                 | Status                                                                                                                                                                                                                          |
 |----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Google Play (Release)](https://play.google.com/store/apps/details?id=eu.darken.sdmse) | ![](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Deu.darken.sdmse%26gl%3DUS%26hl%3Den%26l%3DGoogle%2520Play%2520(Release)%26m%3D%24version) |
 | [Google Play (Open Testing)](https://play.google.com/apps/testing/eu.darken.sdmse)     | ![](https://img.shields.io/badge/Open%20Test%20Track%20-%20Google%20Play?logo=googleplay&logoColor=googleplay&label=Google%20Play)                                                                                              |
