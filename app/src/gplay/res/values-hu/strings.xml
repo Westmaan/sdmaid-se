@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_upgraded">SD Maid SE Pro</string>
+    <string name="app_name_upgrade_postfix">Pro</string>
+    <string name="upgrade_feature_requires_pro">SD Maid SE Pro szükséges</string>
+    <string name="upgrades_dashcard_title">Az SD Maid frissítése</string>
+    <string name="upgrades_dashcard_body">Az SD Maid Pro jobb eredményeket, több funkciót és lehetőséget kínál a nagy teljesítményű felhasználók számára.</string>
+    <string name="upgrades_dashcard_upgrade_action">Frissítés</string>
+    <string name="upgrades_gplay_unavailable_error_title">A Google Play nem elérhető</string>
+    <string name="upgrades_gplay_unavailable_error_description">SD Maid nem tud csatlakozni a Google Playhez. Telepített és naprakész a Google Play? Be vagy jelentkezve a Google-fiókodba? Próbáld meg a Google Play gyorsítótárának törlését és a készülék újraindítását.</string>
+    <string name="upgrades_no_purchases_found_check_account">Nem található vásárlás. A megfelelő fiókot használja?</string>
+    <string name="upgrade_screen_title">Szerezze be az SD Maid SE Pro-t</string>
+    <string name="upgrade_screen_preamble">Az SD Maid nem tartalmaz hirdetéseket, és nem értékesít felhasználói adatokat. A munkámat Ön finanszírozza ❤️.</string>
+    <string name="upgrade_screen_benefits_title">Előnyök</string>
+    <string name="upgrade_screen_benefits_body">• Alkalmazások tisztítása 💯\n• Ütemezett műveletek ⏰\n• Extra lehetőségek minden eszközhöz ⚙️\n• Saját törlési szabályok ✍️\n• Motivált fejlesztő 🧙\nés több…</string>
+    <string name="upgrade_screen_how_title">Lehetőségek</string>
+    <string name="upgrade_screen_how_body">Választhat az egyszeri vásárlás és az olcsóbb éves előfizetés között.\nAz előfizetés egy 14 napos ingyenes próbaverzióval kezdődik, amely után évente egyszer kerül felszámításra. A próbaidőszak és az előfizetés bármikor lemondható.\nAzonos funkciók, csak különböző árképzési modellek.</string>
+    <string name="upgrade_screen_subscription_trial_action">Ingyenes 14 napos próbaidőszak indítása</string>
+    <string name="upgrade_screen_subscription_action">Iratkozz fel</string>
+    <string name="upgrade_screen_subscription_action_hint">Az előfizetés évi %s.</string>
+    <string name="upgrade_screen_iap_action">Egyszeri vásárlás</string>
+    <string name="upgrade_screen_iap_action_hint">Az egyszeri vásárlás ára %s.</string>
+    <string name="upgrade_screen_thanks_toast">Te vagy a legjobb! ❤️</string>
+    <string name="upgrade_screen_restore_purchase_action">Vásárlás visszaállítása</string>
+    <string name="upgrade_screen_restore_purchase_message">A frissítés az ugyanazon Google-fiókhoz tartozó összes eszközre érvényes.</string>
+    <string name="upgrade_screen_restore_troubleshooting_msg">Hibaelhárítási tippek a fel nem ismert frissítésekhez:</string>
+    <string name="upgrade_screen_restore_sync_patience_hint">A Play Áruház szinkronizálása időbe telhet. Próbáld meg az újraindítást, a Google Play gyorsítótárának törlését vagy egyszerűen várj.</string>
+    <string name="upgrade_screen_restore_multiaccount_hint">A több fiók összezavarhatja a Google Play-t. Jelentkezz ki más fiókokból, vagy telepítsd a Google Play weboldalán keresztül, amely kikényszeríti a meghatározott fiókkal való társítást.</string>
+</resources>

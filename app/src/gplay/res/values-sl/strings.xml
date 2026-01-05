@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_upgraded">SD Maid SE Pro</string>
+    <string name="app_name_upgrade_postfix">Pro</string>
+    <string name="upgrade_feature_requires_pro">Zahteva SD Maid SE Pro.</string>
+    <string name="upgrades_dashcard_title">Nadgradi SD Maid</string>
+    <string name="upgrades_dashcard_body">SD Maid Pro nudi boljše rezultate, več funkcij in možnosti za napredne uporabnike.</string>
+    <string name="upgrades_dashcard_upgrade_action">Nadgradi</string>
+    <string name="upgrades_gplay_unavailable_error_title">Google Play ni na voljo.</string>
+    <string name="upgrades_gplay_unavailable_error_description">SD Maid se ne more povezati z Googlom Play.  Ali je nameščen in posodobljen?  Ali ste prijavljeni v Googlov račun?  Poizkusite počistiti predpomnilnik programa Google Play in napravo ponovno zagnati.</string>
+    <string name="upgrades_gplay_billing_error_label">Težava z Googlom Play</string>
+    <string name="upgrades_gplay_billing_error_description">Prišlo je do težave z Googlom Play.  Poizkusite znova ali ponovno zaženite napravo.\n\nPodrobnosti: %s</string>
+    <string name="upgrades_no_purchases_found_check_account">Nakup ni bil najden.  Ali uporabljate pravi račun?</string>
+    <string name="upgrade_screen_title">Dobi SD Maid SE Pro</string>
+    <string name="upgrade_screen_preamble">SD Maid je brez oglasov in ne prodaja uporabniških podatkov.  Moje delo financirajo uporabniki. ❤️</string>
+    <string name="upgrade_screen_benefits_title">Prednosti</string>
+    <string name="upgrade_screen_benefits_body">• Čiščenje programov 💯\n• opravila po urniku ⏰\n• dodatne možnosti v vseh orodjih ⚙️\n• lastna pravila brisanja ✍️\n• motiviran razvijalec 🧙\nin več …</string>
+    <string name="upgrade_screen_how_title">Možnosti</string>
+    <string name="upgrade_screen_how_body">Izbirate lahko med enkratnim nakupom in cenejšo letno naročnino.\nNaročnina se začne z brezplačnim 14-dnevnim preizkusom, nakar vam zaračunam enkrat na leto.  Preizkus in naročnino lahko kadarkoli prekličete.\nIste funkcije, samo različni načini plačevanja.</string>
+    <string name="upgrade_screen_subscription_trial_action">Začni 14-dnevni preizkus</string>
+    <string name="upgrade_screen_subscription_action">Naroči se</string>
+    <string name="upgrade_screen_subscription_action_hint">Naročnina stane %s na leto.</string>
+    <string name="upgrade_screen_iap_action">Enkratni nakup</string>
+    <string name="upgrade_screen_iap_action_hint">Enkratni nakup stane %s.</string>
+    <string name="upgrade_screen_thanks_toast">Hvala! ❤️</string>
+    <string name="upgrade_screen_restore_purchase_action">Obnovi nakup</string>
+    <string name="upgrade_screen_restore_purchase_message">Nadgradnja je veljavna v vseh napravah, kjer ste prijavljeni z istim Googlovim računom.</string>
+    <string name="upgrade_screen_restore_troubleshooting_msg">Nasveti za odpravljanje težav pri neprepoznanih nadgradnjah:</string>
+    <string name="upgrade_screen_restore_sync_patience_hint">Sinhronizacija s Trgovino Play bo morda trajala nekaj časa.  Poizkusite s ponovnim zagnom naprave, čiščenjem predpomnilnika Googla Play ali preprosto počakajte.</string>
+    <string name="upgrade_screen_restore_multiaccount_hint">Več računov lahko zmede Google Play.  Odjavite se iz drugih računov ali namestite preko spletne strani Google Play, ki vsili povezavo z določenim računom.</string>
+</resources>

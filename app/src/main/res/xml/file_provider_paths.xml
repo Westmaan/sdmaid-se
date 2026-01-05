@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path
+        name="debug_logs"
+        path="debug/logs" />
+    <external-files-path
+        name="debug_logs"
+        path="debug/logs" />
+    <root-path
+        name="device_root"
+        path="." />
+</paths>

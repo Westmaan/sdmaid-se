@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_upgraded">SD Maid SE Pro</string>
+    <string name="app_name_upgrade_postfix">Pro</string>
+    <string name="upgrade_feature_requires_pro">Wymaga SD Maid SE Pro</string>
+    <string name="upgrades_dashcard_title">Ulepsz SD Maid</string>
+    <string name="upgrades_dashcard_body">SD Maid Pro oferuje lepsze wyniki, więcej funkcji i opcji dla zaawansowanych użytkowników.</string>
+    <string name="upgrades_dashcard_upgrade_action">Ulepsz</string>
+    <string name="upgrades_gplay_unavailable_error_title">Google Play jest niedostępny</string>
+    <string name="upgrades_gplay_unavailable_error_description">SD Maid nie może połączyć się z Google Play. Czy Google Play jest zainstalowany i aktualny? Czy jesteś konto zalogowany do Twojego konta Google? Spróbuj wyczyścić pamięć podręczną aplikacji Google Play i ponownie uruchomić urządzenie.</string>
+    <string name="upgrades_gplay_billing_error_label">Problem z Google Play</string>
+    <string name="upgrades_gplay_billing_error_description">Wystąpił problem z Google Play. Spróbuj ponownie później lub zrestartuj urządzenie.\n\nSzczegóły: %s</string>
+    <string name="upgrades_no_purchases_found_check_account">Nie znaleziono żadnych zakupów. Czy używasz właściwego konta?</string>
+    <string name="upgrade_screen_title">Ulepsz do SD Maid SE Pro</string>
+    <string name="upgrade_screen_preamble">SD Maid nie zawiera reklam i nie sprzedaje danych użytkowników. Moja praca jest finansowana przez Ciebie ❤️.</string>
+    <string name="upgrade_screen_benefits_title">Zalety</string>
+    <string name="upgrade_screen_benefits_body">• Czyszczenie aplikacji 💯\n• Zaplanowane operacje ⏰\n• Dodatkowe opcje dla wszystkich narzędzi ⚙️\n• Twoje własne reguły usuwania ✍️\n• Zmotywowany autor 🧙\ni więcej…</string>
+    <string name="upgrade_screen_how_title">Opcje</string>
+    <string name="upgrade_screen_how_body">Możesz wybrać między jednorazowym zakupem a tańszą roczną subskrypcją.\nSubskrypcja rozpoczyna się od bezpłatnego 14-dniowego okresu próbnego, po którym opłata będzie naliczana raz w roku. Wersję próbną i subskrypcję można anulować w dowolnym momencie.\nTe same funkcje, tylko różne modele cenowe.</string>
+    <string name="upgrade_screen_subscription_trial_action">Rozpocznij bezpłatny 14-dniowy okres próbny</string>
+    <string name="upgrade_screen_subscription_action">Subskrybuj</string>
+    <string name="upgrade_screen_subscription_action_hint">Subskrypcja kosztuje %s rocznie.</string>
+    <string name="upgrade_screen_iap_action">Jednorazowy zakup</string>
+    <string name="upgrade_screen_iap_action_hint">Jednorazowy zakup kosztuje %s.</string>
+    <string name="upgrade_screen_thanks_toast">Dziękuje! ❤️</string>
+    <string name="upgrade_screen_restore_purchase_action">Przywróć zakup</string>
+    <string name="upgrade_screen_restore_purchase_message">Twoje uaktualnienie obowiązuje na wszystkich urządzeniach znajdujących się na tym samym koncie Google.</string>
+    <string name="upgrade_screen_restore_troubleshooting_msg">Wskazówki dotyczące rozwiązywania problemów z nierozpoznanymi uaktualnieniami:</string>
+    <string name="upgrade_screen_restore_sync_patience_hint">Synchronizacja Sklepu Play może zająć trochę czasu. Spróbuj uruchomić ponownie, wyczyścić pamięć podręczną Google Play lub po prostu poczekać.</string>
+    <string name="upgrade_screen_restore_multiaccount_hint">Wiele kont może zdezorientować Google Play. Wyloguj się z innych kont lub zainstaluj poprzez stronę Google Play, wymuszając powiązanie z konkretnym kontem.</string>
+</resources>

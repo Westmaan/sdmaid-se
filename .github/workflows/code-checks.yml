@@ -1,0 +1,72 @@
+name: Code tests & eval
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+
+jobs:
+  lint-vital:
+    name: Lint vitals
+    strategy:
+      fail-fast: false
+      matrix:
+        flavor: [ Foss,Gplay ]
+        variant: [ Beta,Release ]
+        module: [ app ]
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 #v4.2.2
+      - name: Setup project and build environment
+        uses: ./.github/actions/common-setup
+
+      - name: Check for fatal lint issues
+        run: ./gradlew lintVital${{ matrix.flavor }}${{ matrix.variant }}
+
+  build-modules:
+    name: Build apps
+    strategy:
+      fail-fast: false
+      matrix:
+        flavor: [ Foss,Gplay ]
+        variant: [ Debug ]
+        module: [ app ]
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 #v4.2.2
+      - name: Setup project and build environment
+        uses: ./.github/actions/common-setup
+
+      - name: Build modules
+        run: ./gradlew ${{ matrix.module }}:assemble${{ matrix.flavor }}${{ matrix.variant }}
+
+  test-modules:
+    name: Unit tests
+    strategy:
+      fail-fast: false
+      matrix:
+        variant: [ Debug,Beta,Release ]
+        flavor: [ testFoss,testGplay ]
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 #v4.2.2
+      - name: Setup project and build environment
+        uses: ./.github/actions/common-setup
+
+      - name: Test modules
+        run: ./gradlew ${{ matrix.flavor }}${{ matrix.variant }}UnitTest
+
+      - name: Upload test results
+        uses: actions/upload-artifact@v4.6.2
+        if: always()
+        with:
+          name: test-results-${{ matrix.flavor }}-${{ matrix.variant }}
+          path: |
+            **/build/test-results/**/*.xml
+            **/build/reports/tests/**/*
+          retention-days: 1

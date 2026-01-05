@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_upgraded">SD Maid SE Pro</string>
+    <string name="app_name_upgrade_postfix">Pro</string>
+    <string name="upgrade_feature_requires_pro">Патрабуецца SD Maid SE Pro</string>
+    <string name="upgrades_dashcard_title">Абнавіць SD Maid</string>
+    <string name="upgrades_dashcard_body">SD Maid Pro прапануе лепшыя рэзультаты, больш функцый і опцый для дасведчаных карыстальнікаў.</string>
+    <string name="upgrades_dashcard_upgrade_action">Абнавіць</string>
+    <string name="upgrades_gplay_unavailable_error_title">Google Play недаступны</string>
+    <string name="upgrades_gplay_unavailable_error_description">SD Maid не можа падключыцца да Google Play. Ці ўсталяваны і абноўлены Google Play? Вы ўвайшлі ў свой уліковы запіс Google? Паспрабуйце ачысціць кэш праграмы Google Play і перазагрузіць прыладу.</string>
+    <string name="upgrades_gplay_billing_error_label">Праблема з Google Play</string>
+    <string name="upgrades_gplay_billing_error_description">Узнікла праблема з Google Play. Паўтарыце спробу пазней або перазагрузіце прыладу.\n\nПадрабязнасці: %s</string>
+    <string name="upgrades_no_purchases_found_check_account">Пакупак не знойдзена. Вы выкарыстоўваеце правільны ўліковы запіс?</string>
+    <string name="upgrade_screen_title">Атрымаць SD Maid SE Pro</string>
+    <string name="upgrade_screen_preamble">SD Maid не змяшчае рэкламы і не прадае даныя карыстальнікаў. Мая праца фінансуецца вамі ❤️.</string>
+    <string name="upgrade_screen_benefits_title">Перавагі</string>
+    <string name="upgrade_screen_benefits_body">• Ачыстка праграм 💯\n• Запланаваныя аперацыі ⏰\n• Дадатковыя параметры для ўсіх інструментаў ⚙️\n• Карыстальніцкія правілы выдалення ✍️\n• Матываваны распрацоўшчык 🧙\nі шмат чаго іншага…</string>
+    <string name="upgrade_screen_how_title">Варыянты</string>
+    <string name="upgrade_screen_how_body">Вы можаце выбраць паміж аднаразовай пакупкай і больш таннай гадавой падпіскай.\nПадпіска пачынаецца з бясплатнай 14-дзённай пробнай версіі, пасля якой плата будзе спаганяцца раз у год. Пробны перыяд і падпіску можна скасаваць у любы час.\nТыя ж функцыі, толькі розныя спосабы аплаты.</string>
+    <string name="upgrade_screen_subscription_trial_action">Пачаць бясплатны пробны 14-дзённы перыяд</string>
+    <string name="upgrade_screen_subscription_action">Падпісацца</string>
+    <string name="upgrade_screen_subscription_action_hint">Падпіска каштуе %s у год.</string>
+    <string name="upgrade_screen_iap_action">Аднаразовая пакупка</string>
+    <string name="upgrade_screen_iap_action_hint">Аднаразовая пакупка каштуе %s.</string>
+    <string name="upgrade_screen_thanks_toast">Вы найлепшы! ❤️</string>
+    <string name="upgrade_screen_restore_purchase_action">Аднавіць пакупку</string>
+    <string name="upgrade_screen_restore_purchase_message">Ваша абнаўленне дзейнічае на ўсіх прыладах з аднолькавым уліковым запісам Google.</string>
+    <string name="upgrade_screen_restore_troubleshooting_msg">Парады па вырашэнню непаладак пры нераспазнаных абнаўленнях:</string>
+    <string name="upgrade_screen_restore_sync_patience_hint">Сінхранізацыя з Play Store можа заняць пэўны час. Паспрабуйце перазагрузіцца, ачысціць кэш Google Play або проста пачакаць.</string>
+    <string name="upgrade_screen_restore_multiaccount_hint">Некалькі ўліковых запісаў могуць заблытаць Google Play. Выйдзіце з іншых уліковых запісаў або ўсталюйце праз вэб-сайт Google Play, які вызначае сувязь з пэўным уліковым запісам.</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_upgraded">SD Maid SE FOSS</string>
+    <string name="app_name_upgrade_postfix">FOSS</string>
+
+    <string name="upgrade_feature_requires_pro">SD Maid SE FOSS hewce dike</string>
+
+    <string name="upgrades_dashcard_title">SD Maid-ê bilind bike</string>
+    <string name="upgrades_dashcard_body">Taybetmendiyên zêde vekin û bibe patronek ji bo piştgiriya pêşkeftina berdewam!</string>
+    <string name="upgrades_dashcard_upgrade_action">Bilind bike</string>
+
+    <string name="upgrade_screen_title">SD Maid-ê baştir bike</string>
+    <string name="upgrade_screen_preamble">SD Maid reklam tune û daneyên bikarhêner nafiroşe. Pêşkeftina berdewam tenê bi we re gengaz e.</string>
+    <string name="upgrade_screen_how_title">Çawa alîkarî bikin</string>
+    <string name="upgrade_screen_how_body">Bibe patron û pêşkeftinê sponsor bike! Li bişkojka jêrîn bitikîne da ku hemû taybetmendiyên zêde çalak bikin û profîla min a GitHub Sponsors veke.</string>
+    <string name="upgrade_screen_why_title">Ev yek diafirîne 🪄</string>
+    <string name="upgrade_screen_why_body">• Fonksiyona jêbirinê ya AppCleaner 💯\n• Operasyonên programkirî ⏰\n• Vebijarkên zêde ji bo hemû amûran ⚙️\n• Rêbazên jêbirinê yên we ✍️\n• Pêşdebirek motîvasyondar 🧙\nû bêtir…</string>
+    <string name="upgrade_screen_sponsor_action">Pêşkeftinê sponsor bike</string>
+    <string name="upgrade_screen_sponsor_action_hint">Alternatîf reklam, analîtîk û Google Play in 🙁</string>
+    <string name="upgrade_screen_thanks_toast">Sipas ji bo piştgiriya pêşkeftina çavkaniya vekirî ❤️</string>
+</resources>

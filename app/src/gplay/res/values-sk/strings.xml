@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_upgraded">SD Maid SE Pro</string>
+    <string name="app_name_upgrade_postfix">Pro</string>
+    <string name="upgrade_feature_requires_pro">Vyžaduje SD Maid SE Pro</string>
+    <string name="upgrades_dashcard_title">Inovujte SD Maid</string>
+    <string name="upgrades_dashcard_body">SD Maid Pro ponúka lepšie výsledky, viac funkcií a možností pre náročných používateľov.</string>
+    <string name="upgrades_dashcard_upgrade_action">Inovovať</string>
+    <string name="upgrades_gplay_unavailable_error_title">Google Play nie je k dispozícii</string>
+    <string name="upgrades_gplay_unavailable_error_description">SD Maid sa nemôže pripojiť k službe Google Play. Je Google Play nainštalovaný a aktuálny? Je váš účet Google prihlásený? Skúste vymazať vyrovnávaciu pamäť aplikácie Google Play a reštartujte zariadenie.</string>
+    <string name="upgrades_gplay_billing_error_label">Problém s Google Play</string>
+    <string name="upgrades_gplay_billing_error_description">Vyskytol sa problém so službou Google Play. Skúste to znova neskôr alebo reštartujte zariadenie.\n\nPodrobnosti: %s</string>
+    <string name="upgrades_no_purchases_found_check_account">Nenašli sa žiadne nákupy. Používate správny účet?</string>
+    <string name="upgrade_screen_title">Získajte SD Maid SE Pro</string>
+    <string name="upgrade_screen_preamble">SD Maid nemá žiadne reklamy a nepredáva používateľské údaje. Moja práca je financovaná vami ❤️.</string>
+    <string name="upgrade_screen_benefits_title">Výhody</string>
+    <string name="upgrade_screen_benefits_body">• Čistenie aplikácií 💯\n• Plánované operácie ⏰\n• Ďalšie možnosti pre všetky nástroje ⚙️\n• Vaše vlastné pravidlá odstraňovania ✍️\n• Motivovaný vývojár 🧙\na ďalšie…</string>
+    <string name="upgrade_screen_how_title">Možnosti</string>
+    <string name="upgrade_screen_how_body">Môžete si vybrať medzi jednorazovým nákupom a lacnejším ročným odberom.\nPredplatné sa začína bezplatnou 14-dňovou skúšobnou verziou, po ktorej vám bude raz ročne účtovaný poplatok. Skúšobnú verziu a predplatné je možné kedykoľvek zrušiť.\nRovnaké funkcie, len iné cenové modely.</string>
+    <string name="upgrade_screen_subscription_trial_action">Spustite bezplatnú 14-dňovú skúšobnú verziu</string>
+    <string name="upgrade_screen_subscription_action">Predplatiť</string>
+    <string name="upgrade_screen_subscription_action_hint">Predplatné stojí %s ročne.</string>
+    <string name="upgrade_screen_iap_action">Jednorazový nákup</string>
+    <string name="upgrade_screen_iap_action_hint">Jednorazový nákup stojí %s.</string>
+    <string name="upgrade_screen_thanks_toast">Ste najlepší! ❤️</string>
+    <string name="upgrade_screen_restore_purchase_action">Obnoviť nákup</string>
+    <string name="upgrade_screen_restore_purchase_message">Vaša licencia je platná pre všetky zariadenia s tým istým účtom Google.</string>
+    <string name="upgrade_screen_restore_troubleshooting_msg">Tipy na riešenie problémov s licenciou:</string>
+    <string name="upgrade_screen_restore_sync_patience_hint">Synchronizácia Obchodu Play môže chvíľu trvať. Skúste reštartovať, vymazať vyrovnávaciu pamäť Google Play alebo jednoducho počkajte.</string>
+    <string name="upgrade_screen_restore_multiaccount_hint">Viaceré účty môžu zmiasť Google Play. Odhláste sa z iných účtov alebo nainštalujte prostredníctvom webovej stránky Google Play, čo si vynúti priradenie ku konkrétnemu účtu.</string>
+</resources>

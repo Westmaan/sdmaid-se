@@ -1,0 +1,31 @@
+package eu.darken.sdmse.appcleaner.core.scanner
+
+import eu.darken.sdmse.common.files.APath
+import eu.darken.sdmse.common.pkgs.Pkg
+import eu.darken.sdmse.common.pkgs.features.InstallId
+import eu.darken.sdmse.common.user.UserHandle2
+
+data class InaccessibleCache(
+    val identifier: InstallId,
+    val isSystemApp: Boolean,
+    val itemCount: Int,
+    val totalSize: Long,
+    val publicSize: Long?,
+    val theoreticalPaths: Set<APath>,
+) {
+
+    val pkgId: Pkg.Id
+        get() = identifier.pkgId
+
+    val userHandle: UserHandle2
+        get() = identifier.userHandle
+
+    /**
+     * The portion of the cache that is strictly internal (not on public storage).
+     * Coerced to 0 to prevent negative numbers if OS stats are desynced.
+     */
+    val privateSize: Long = (totalSize - (publicSize ?: 0L)).coerceAtLeast(0L)
+
+    val isEmpty: Boolean
+        get() = totalSize == 0L
+}

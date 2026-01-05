@@ -1,0 +1,40 @@
+<i>SD Maid 2/SE</i> é o seu assistente Android de confiança, para manter o seu dispositivo limpo e arrumado.
+
+Ninguém é perfeito e nem o Android.
+* Os aplicativos que você já removeu deixam algo para trás.
+* Registros, relatórios de erro e outros arquivos que você não deseja estão sendo constantemente criados.
+* Seu armazenamento está coletando arquivos e pastas que você não reconhece.
+* Fotos duplicadas em sua galeria.
+
+Não iremos nos estender por aqui… Deixe o SD Maid 2/SE te ajudar!
+
+SD Maid 2/SE é um aplicativo e gerenciador de arquivos que se especializa em identificar quais aplicativos criaram arquivos específicos em seu dispositivo. O SD Maid 2/SE analisa seu dispositivo, compara arquivos com aplicativos instalados e oferece opções seguras para liberar espaço de armazenamento.
+
+✨ Limpeza após desinstalar aplicativos
+Se os apps criarem arquivos fora de suas pastas designadas, então os arquivos poderão permanecer mesmo depois de desinstalar os apps. A ferramenta "Localizador de Resíduos" encontra arquivos residuais de aplicativos, diz a que aplicativo pertencia e ajuda a excluí-los.
+
+🔍 Pesquise o seu dispositivo da maneira inteligente
+Filtro para pastas vazias, arquivos temporários, apps já instalados e muito mais. Você pode até criar seus próprios critérios de pesquisa. A ferramenta "Limpador do sistema" permite que você faça uma busca automática em seu dispositivo e exclua arquivos com base em vários critérios.
+
+🧹 Exclua arquivos descartáveis ​​e caches ocultos
+Miniaturas, lixeiras, caches offline e muito mais: se os aplicativos não se limparem por eles mesmos, este aplicativo irá fazer o trabalho. A ferramenta "Limpador de aplicativos" encontra aplicativos com arquivos descartáveis.
+
+📦 Gerencie todos os seus aplicativos
+Obtenha uma lista abrangente de todos os aplicativos instalados no seu dispositivo. Aplicativo ativado, desativado, do usuário ou do sistema: nenhum aplicativo poderá se esconder de você. A ferramenta "Gerenciamento de aplicativos" é um gerenciador de aplicativos que permite pesquisar, classificar e controlar seus aplicativos.
+
+📊 O que está ocupando todo o seu espaço
+O gerenciamento de armazenamento pode ser complexo com aplicativos, mídia, sistema e outros arquivos no armazenamento do celular, cartões SD e dispositivos USB. "Analisador de armazenamento" é um gerenciador de arquivos que exibe como o espaço está sendo usado em seu dispositivo, simplificando o gerenciamento do armazenamento.
+
+📷 Encontre dados duplicados
+Downloads duplicados, fotos enviadas em redes sociais ou apenas fotos semelhantes do mesmo cenário: com o tempo, as cópias podem se acumular. A ferramenta "Desduplicador" encontra arquivos exatamente iguais ou semelhantes e ajuda você a excluir as cópias extras.
+
+Este aplicativo não contém anúncios. Alguns recursos exigem uma atualização paga.
+
+O SD Maid 2/SE é o sucessor do SD Maid 1/Legacy.
+Otimizado para versões mais recentes do Android e focado na limpeza.
+
+O SD Maid possui recursos opcionais que utilizam a API AccessibilityService para automatizar ações tediosas.
+Usando a API de Serviço de Acessibilidade, este aplicativo pode clicar em botões para você executar operações em vários aplicativos, como, por exemplo excluindo caches. excluindo caches.
+Este aplicativo não usa a API do Serviço de Acessibilidade para coletar informações.
+
+O SD Maid 2/SE é um Gerenciador de Arquivos e um Limpador de Aplicativos.

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_upgraded">SD Maid SE Pro</string>
+    <string name="app_name_upgrade_postfix">Pro</string>
+    <string name="upgrade_feature_requires_pro">Requer SD Maid SE Pro</string>
+    <string name="upgrades_dashcard_title">Atualizar SD Maid</string>
+    <string name="upgrades_dashcard_body">O SD Maid Pro oferece melhores resultados, mais recursos e opções para usuários avançados.</string>
+    <string name="upgrades_dashcard_upgrade_action">Atualizar</string>
+    <string name="upgrades_gplay_unavailable_error_title">O Google Play está indisponível</string>
+    <string name="upgrades_gplay_unavailable_error_description">O SD Maid não pode se conectar ao Google Play. O Google Play está instalado e atualizado? Sua Conta Google está conectada? Tente limpar o cache do aplicativo Google Play e reiniciar o seu dispositivo.</string>
+    <string name="upgrades_gplay_billing_error_label">Problema do Google Play</string>
+    <string name="upgrades_gplay_billing_error_description">Houve um problema com o Google Play. Por favor, tente novamente mais tarde ou reinicie o seu dispositivo.\n\nDetalhes: %s</string>
+    <string name="upgrades_no_purchases_found_check_account">Nenhuma compra encontrada. Você está usando a conta certa?</string>
+    <string name="upgrade_screen_title">Obtenha o SD Maid SE Pro</string>
+    <string name="upgrade_screen_preamble">O SD Maid não tem anúncios e não vende dados de usuários. Meu trabalho é financiado por você ❤️.</string>
+    <string name="upgrade_screen_benefits_title">Vantagens</string>
+    <string name="upgrade_screen_benefits_body">• Limpeza de aplicativos 💯\n• Operações agendadas ⏰\n• Opções extras para todas as ferramentas ⚙️\n• Suas próprias regras de exclusão ✍️\n• Um desenvolvedor motivado 🧙\ne mais…</string>
+    <string name="upgrade_screen_how_title">Opções</string>
+    <string name="upgrade_screen_how_body">Você pode escolher entre uma compra única ou uma assinatura anual mais barata.\nA assinatura começa com um teste gratuito de 14 dias, após o qual você será cobrado uma vez por ano. Teste e assinatura são canceláveis a qualquer momento.\nAs mesmas funcionalidades, apenas diferentes modelos de preços.</string>
+    <string name="upgrade_screen_subscription_trial_action">Iniciar teste gratuito de 14 dias</string>
+    <string name="upgrade_screen_subscription_action">Se inscrever</string>
+    <string name="upgrade_screen_subscription_action_hint">A assinatura custa %s por ano.</string>
+    <string name="upgrade_screen_iap_action">Compra de uma só vez</string>
+    <string name="upgrade_screen_iap_action_hint">A compra única custa %s.</string>
+    <string name="upgrade_screen_thanks_toast">Você é o melhor! ❤️</string>
+    <string name="upgrade_screen_restore_purchase_action">Restaurar a compra</string>
+    <string name="upgrade_screen_restore_purchase_message">A sua atualização é válida entre os dispositivos da mesma conta do Google.</string>
+    <string name="upgrade_screen_restore_troubleshooting_msg">Dicas de solução de problemas para atualizações não reconhecidas:</string>
+    <string name="upgrade_screen_restore_sync_patience_hint">A sincronização da Play Store pode demorar bastante. Tente reiniciar, limpar o cache do Google Play ou simplesmente aguarde.</string>
+    <string name="upgrade_screen_restore_multiaccount_hint">Várias contas podem confundir o Google Play. Saia de outras contas ou instale através do site do Google Play, o que força associações com uma conta específica.</string>
+</resources>
